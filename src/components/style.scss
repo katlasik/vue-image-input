@@ -1,0 +1,31 @@
+.vii {
+  .vii-input {
+    display: none;
+  }
+
+  figure {
+    cursor: pointer;
+    pointer-events: none;
+    margin: 0;
+  }
+
+  img {
+    cursor: pointer;
+  }
+
+  figure {
+    width: 100%;
+    height: 100%;
+  }
+
+  .vii-slot {
+    height: 100%;
+    width: 100%;
+    border: 0.05rem dashed #333;
+    padding: 1rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+}
